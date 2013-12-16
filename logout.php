@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title>PHP Example</title>
+	<title>PHP Example - Session Heloper</title>
 </head>
 <body>
 <?php
