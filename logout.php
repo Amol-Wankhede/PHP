@@ -16,6 +16,6 @@ if (isset($_SESSION["name"])) {
     </p>
     <input type="submit" value="submit"/>
   </form>
-<?php } ?>
+<?php }  ?>
 </body>
 </html>
