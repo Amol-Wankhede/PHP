@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title>PHP Example </title>
+	<title>PHP Example - Session </title>
 </head>
 <body>
 <?php
